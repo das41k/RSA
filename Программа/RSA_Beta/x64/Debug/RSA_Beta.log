@@ -1,0 +1,7 @@
+﻿  RSA_Beta.cpp
+F:\VSProjects\RSA_Beta\RSA_Beta\RSA_Beta.cpp(14,12): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+F:\VSProjects\RSA_Beta\RSA_Beta\RSA_Beta.cpp(16,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+F:\VSProjects\RSA_Beta\RSA_Beta\RSA_Beta.cpp(20,12): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+F:\VSProjects\RSA_Beta\RSA_Beta\RSA_Beta.cpp(22,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+F:\VSProjects\RSA_Beta\RSA_Beta\RSA_Beta.cpp(102,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  RSA_Beta.vcxproj -> F:\VSProjects\RSA_Beta\x64\Debug\RSA_Beta.exe
